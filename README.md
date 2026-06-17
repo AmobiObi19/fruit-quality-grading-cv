@@ -53,6 +53,6 @@ Automated sorting systems
 - Integration with mobile and IoT-based agricultural systems
 - Advanced explainability techniques
   
-Author
+# Author
 Amobichukwu Obi
 
