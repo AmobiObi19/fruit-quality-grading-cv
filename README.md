@@ -55,4 +55,4 @@ Automated sorting systems
   
 Author
 Amobichukwu Obi
-PhD Researcher, University of South Bohemia
+
